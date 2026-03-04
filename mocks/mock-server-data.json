@@ -1,0 +1,85 @@
+{
+  "api": {
+    "titles": [
+      "Cozy room near park",
+      "Modern apartment in city center",
+      "Huge house for parties",
+      "Luxury hotel with a beautiful view",
+      "Family-friendly house with garden",
+      "Quiet apartment for solo travelers"
+    ],
+    "descriptions": [
+      "Spacious modern apartment located in the historical city center with great transport access.",
+      "Comfortable private room near a large city park, perfect for short and long stays.",
+      "Large house ideal for events and parties, featuring a spacious living area and private backyard.",
+      "Elegant hotel offering premium rooms with panoramic city views and top-class service.",
+      "Perfect accommodation for families, with a safe yard, multiple bedrooms, and nearby schools.",
+      "Small but cozy studio apartment, ideal for solo travelers or business trips."
+    ],
+    "cities": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "previewImages": [
+      "https://my-mock.com/preview-image-1.jpg",
+      "https://my-mock.com/preview-image-2.jpg",
+      "https://my-mock.com/preview-image-3.jpg",
+      "https://my-mock.com/preview-image-4.jpg",
+      "https://my-mock.com/preview-image-5.jpg",
+      "https://my-mock.com/preview-image-6.jpg"
+    ],
+    "housingImages": [
+      "https://my-mock.com/housing-image-1.jpg",
+      "https://my-mock.com/housing-image-2.jpg",
+      "https://my-mock.com/housing-image-3.jpg",
+      "https://my-mock.com/housing-image-4.jpg",
+      "https://my-mock.com/housing-image-5.jpg",
+      "https://my-mock.com/housing-image-6.jpg",
+      "https://my-mock.com/housing-image-7.jpg",
+      "https://my-mock.com/housing-image-8.jpg",
+      "https://my-mock.com/housing-image-9.jpg",
+      "https://my-mock.com/housing-image-10.jpg"
+    ],
+    "authorNames": [
+      "Alexei Volkov",
+      "Olga Ivanova",
+      "Pavel Kozlov",
+      "Natalia Sokolova",
+      "Dmitry Morozov",
+      "Elena Belova"
+    ],
+    "authorEmails": [
+      "a.volkov@mail.com",
+      "o.i.van@gmail.com",
+      "pavel.kozlov.dev@outlook.com",
+      "natalia.sokolova.design@gmail.com",
+      "dmitry_morozov.js@proton.me",
+      "ms.elena_belova@yandex.ru"
+    ],
+    "authorAvatars": [
+      "avatar-1.jpg",
+      "avatar-2.jpg",
+      "avatar-3.jpg"
+    ],
+    "authorPasswords": [
+      "MyPass123!",
+      "SecretKey42$",
+      "NewPass2026@",
+      "HouseOwner#777",
+      "SafePassword&1",
+      "Rent2026Secure%"
+    ],
+    "coordinatesValues": [
+      [48.8566, 2.3522],
+      [50.9375, 6.9603],
+      [50.8503, 4.3517],
+      [52.3676, 4.9041],
+      [53.5511, 9.9937],
+      [51.2277, 6.7735]
+    ]
+  }
+}

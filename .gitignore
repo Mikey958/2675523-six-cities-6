@@ -5,7 +5,9 @@
 /dist/
 /docs/
 .idea/*
+/mocks/test-data.mock.tsv
 
 .DS_Store
 coverage
 *.log
+/package-lock.json

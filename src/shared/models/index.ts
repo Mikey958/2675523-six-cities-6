@@ -4,3 +4,4 @@ export * from './user.interface.js';
 export * from './city.interface.js';
 export * from './amentities.type.js';
 export * from './house.type.js';
+export * from './mock-server-data.interface.js';
